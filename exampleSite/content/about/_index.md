@@ -2,9 +2,12 @@
 title: "About Me"
 icon: "portrait"
 weight: 10
-name: "ASasd LADSK"
+name: "First Last"
 prefix: ""
 suffix: "PhD"
+office: "Awesome Inc."
+jobTitle: "Senior Awesome"
+location: "Bay Area, CA"
 profileImage: "https://i.stack.imgur.com/oI2SB.jpg?s=328&g=1"
 ## Education
 education:
